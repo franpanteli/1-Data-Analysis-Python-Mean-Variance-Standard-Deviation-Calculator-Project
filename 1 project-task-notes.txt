@@ -1,0 +1,2 @@
+These are my notes on the project task page. This project is called "Mean-Variance-Standard Deviation Calculator." The URL for the page which these notes are on is https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
