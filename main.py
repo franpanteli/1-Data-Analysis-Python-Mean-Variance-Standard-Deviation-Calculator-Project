@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Author: Rudi César Comiotto Modena
-Email: rudi.modena@gmail.com
-"""
-
 # This entrypoint file to be used in development. Start by reading README.md
 from unittest import main
 import mean_var_std
