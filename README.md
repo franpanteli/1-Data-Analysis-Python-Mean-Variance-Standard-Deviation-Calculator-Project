@@ -3,5 +3,5 @@ I independently completed freeCodeCamp's [Data Analysis with Python](https://www
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Python-TensorFlow-Library.git
+git clone https://github.com/franpanteli/Data-Analysis-Python-Mean-Variance-Standard-Deviation-Calculator-Project.git
 ```
