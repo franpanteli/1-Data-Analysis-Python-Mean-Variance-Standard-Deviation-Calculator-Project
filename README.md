@@ -1,1 +1,1 @@
-# 1-Data-Analysis-Python-Mean-Variance-Standard-Deviation-Calculator-Project-
+# Data-Analysis-Python-Mean-Variance-Standard-Deviation-Calculator-Project
